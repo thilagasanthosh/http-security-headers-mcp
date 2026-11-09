@@ -127,8 +127,8 @@ docker run -p 8080:8080 http-security-headers-mcp
 
 ## Related Projects
 
-- [secret-scanner-mcp](../secret-scanner-mcp) — Detect secrets and credentials in source code
-- [owasp-checker-mcp](../owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
-- [jwt-analyser-mcp](../jwt-analyser-mcp) — Decode and audit JWT tokens
-- [dependency-vuln-mcp](../dependency-vuln-mcp) — CVE scanning via OSV.dev
-- [test-coverage-gap-mcp](../test-coverage-gap-mcp) — Find untested Spring Boot code
+- [secret-scanner-mcp](https://github.com/thilagasanthosh/secret-scanner-mcp) — Detect secrets and credentials in source code
+- [owasp-checker-mcp](https://github.com/thilagasanthosh/owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
+- [jwt-analyser-mcp](https://github.com/thilagasanthosh/jwt-analyser-mcp) — Decode and audit JWT tokens
+- [dependency-vuln-mcp](https://github.com/thilagasanthosh/dependency-vuln-mcp) — CVE scanning via OSV.dev
+- [test-coverage-gap-mcp](https://github.com/thilagasanthosh/test-coverage-gap-mcp) — Find untested Spring Boot code
